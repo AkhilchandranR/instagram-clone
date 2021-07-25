@@ -1,0 +1,11 @@
+.app__header img{
+    object-fit: contain;
+    width: 20%;
+    height: 70px;
+    
+}
+.app__header{
+    background-color: #ffff;
+    padding: 20px;
+    border-bottom: 1px solid lightgrey;
+}
